@@ -1,0 +1,329 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 1, ../sass/_row1.scss */
+* {
+  color: #1f3f66;
+}
+
+/* line 5, ../sass/_row1.scss */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 11, ../sass/_row1.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 17, ../sass/_row1.scss */
+.row .row1 {
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  height: 110px;
+  background-color: #1f3f66;
+  background-image: url("../../images/nostrum123.png");
+  background-repeat: no-repeat;
+  background-position: 10%;
+}
+
+/* line 31, ../sass/_row1.scss */
+.row .row2 {
+  font-size: 40px;
+  padding-left: 10%;
+  padding-top: 5%;
+  background: url("../../images/skyline-buildings-new-york-skyscrapers.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+/* line 45, ../sass/_row1.scss */
+#search {
+  color: whitesmoke;
+  background-color: #1f3f66;
+  position: absolute;
+  right: 10%;
+  bottom: 90%;
+  height: 5%;
+  width: 20%;
+  font-size: 25px;
+}
+
+/* line 58, ../sass/_row1.scss */
+.row .row2 .three {
+  font-size: 40px;
+  color: #1f3f66;
+  width: 90%;
+  margin: 0;
+  height: 420px;
+}
+
+/* line 71, ../sass/_row1.scss */
+.row .row2 .phone {
+  position: absolute;
+  left: 50%;
+  top: 25%;
+}
+
+/* line 80, ../sass/_row1.scss */
+.row .row3 .one {
+  display: inline-block;
+  color: #1f3f66;
+  float: right;
+  font-size: 22px;
+  width: 20%;
+  height: 90px;
+  background-color: Silver;
+  padding: 2% 4% 2% 10%;
+  background-image: url("../../images/message.png");
+  background-repeat: no-repeat;
+  background-position: 7%;
+}
+
+/* line 97, ../sass/_row1.scss */
+.row .row3 .two {
+  display: inline-flex;
+  color: #1f3f66;
+  font-size: 22px;
+  width: 20%;
+  height: 90px;
+  background-color: Silver;
+  padding: 2% 4% 2% 10%;
+  float: right;
+  background-image: url("../../images/connect.png");
+  background-repeat: no-repeat;
+  background-position: 7%;
+}
+
+/* line 115, ../sass/_row1.scss */
+.row .row3 .three {
+  display: inline-flex;
+  font-size: 22px;
+  width: 18%;
+  color: #1f3f66;
+  height: 90px;
+  background-color: Silver;
+  padding: 2% 4% 2% 10%;
+  float: right;
+  background-image: url("../../images/wifi.png");
+  background-repeat: no-repeat;
+  background-position: 7%;
+}
+
+/* line 132, ../sass/_row1.scss */
+.row .row2 .button {
+  background-color: #2a922a;
+  width: 20%;
+  height: 10%;
+  font-size: 70%;
+  color: whitesmoke;
+  position: absolute;
+  left: 10%;
+  bottom: 30%;
+  border-radius: 10px;
+  border: hidden;
+}
+
+/* line 147, ../sass/_row1.scss */
+.row .row4 {
+  text-align: left;
+  height: 300px;
+  font-size: 30px;
+  padding-top: 11%;
+  padding-left: 38%;
+  line-height: 35px;
+  color: #1f3f66;
+}
+
+/* line 158, ../sass/_row1.scss */
+#iphone7 {
+  float: left;
+  position: absolute;
+  left: -5%;
+  padding-left: 15%;
+  bottom: -45%;
+}
+
+/* line 167, ../sass/_row1.scss */
+.row .row4 .button {
+  background-color: #2a922a;
+  color: whitesmoke;
+  width: 35%;
+  height: 20%;
+  font-size: 90%;
+  border-radius: 10px;
+  opacity: 10;
+  border: hidden;
+}
+
+/* line 180, ../sass/_row1.scss */
+.row .zero {
+  font-size: 35px;
+  color: #1f3f66;
+  height: 650px;
+  margin-left: 17%;
+}
+
+/* line 190, ../sass/_row1.scss */
+.row .row5 .one {
+  color: #1f3f66;
+  background-color: silver;
+  font-size: 20px;
+  width: 22%;
+  position: absolute;
+  right: 40%;
+  bottom: -74%;
+  height: 45px;
+  padding-left: 3%;
+}
+
+/* line 205, ../sass/_row1.scss */
+.row .row5 .wifi {
+  position: absolute;
+  left: -20%;
+  top: -32%;
+}
+
+/* line 214, ../sass/_row1.scss */
+.row .row5 .two {
+  color: #1f3f66;
+  background-color: silver;
+  font-size: 20px;
+  width: 22%;
+  position: absolute;
+  right: 40%;
+  bottom: -87%;
+  height: 45px;
+  padding-left: 3%;
+}
+
+/* line 229, ../sass/_row1.scss */
+.row .row5 .connect {
+  position: absolute;
+  left: -20%;
+  top: -32%;
+}
+
+/* line 238, ../sass/_row1.scss */
+.row .row5 .three {
+  color: #1f3f66;
+  background-color: silver;
+  font-size: 20px;
+  width: 22%;
+  position: absolute;
+  right: 40%;
+  bottom: -101%;
+  height: 45px;
+  padding-left: 3%;
+}
+
+/* line 253, ../sass/_row1.scss */
+.row .row5 .message {
+  position: absolute;
+  left: -20%;
+  top: -32%;
+}
+
+/* line 263, ../sass/_row1.scss */
+.row .row5 .phone {
+  position: absolute;
+  left: -75%;
+  top: 0%;
+}
+
+/* line 272, ../sass/_row1.scss */
+.row .row5 .email {
+  width: 30%;
+  float: right;
+  height: 460px;
+  position: absolute;
+  top: 160%;
+  right: 5%;
+  background-color: #1f3f66;
+  border-radius: 1px;
+}
+
+/* line 287, ../sass/_row1.scss */
+.row .row5 .input-form {
+  font-size: 25px;
+  width: 85%;
+  height: 10%;
+  position: absolute;
+  left: 7%;
+  bottom: 70%;
+  border-radius: 7px;
+}
+
+/* line 300, ../sass/_row1.scss */
+.row .row5 .input-form2 {
+  font-size: 25px;
+  width: 85%;
+  height: 10%;
+  position: absolute;
+  left: 7%;
+  bottom: 50%;
+  border-radius: 7px;
+}
+
+/* line 313, ../sass/_row1.scss */
+.row .row5 .input-form3 {
+  font-size: 25px;
+  width: 85%;
+  height: 10%;
+  position: absolute;
+  left: 7%;
+  bottom: 30%;
+  border-radius: 7px;
+}
+
+/* line 326, ../sass/_row1.scss */
+.row .row5 .button-buttom {
+  width: 40%;
+  height: 10%;
+  font-size: 20px;
+  background-color: #2a922a;
+  color: whitesmoke;
+  position: absolute;
+  left: 45%;
+  bottom: 10%;
+  border-radius: 10px;
+  border: #1f3f66;
+}
+
+/* line 340, ../sass/_row1.scss */
+.tab-col {
+  width: 20%;
+  color: white;
+  font-size: 25px;
+  padding-left: 22%;
+  border-radius: 7px;
+}
+
+/* line 347, ../sass/_row1.scss */
+.tab-col2 {
+  background-color: #f9b046;
+  float: right;
+  color: white;
+  font-size: 25px;
+  padding-right: 20%;
+  border-radius: 1px;
+  padding-left: 5%;
+}
+
+/* line 356, ../sass/_row1.scss */
+.email2 {
+  width: 30%;
+  float: right;
+  height: 460px;
+  position: absolute;
+  top: 160%;
+  right: 5%;
+  border-radius: 1px;
+}

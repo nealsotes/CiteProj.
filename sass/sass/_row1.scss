@@ -1,0 +1,364 @@
+*{
+  color:#1f3f66;
+}
+
+body{
+
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+    .row1 {
+      overflow: hidden;
+      width: 100%;
+      margin: 0;
+      height: 110px;
+      background-color:#1f3f66;
+      background-image: url("../../images/nostrum123.png");
+      background-repeat: no-repeat;
+      background-position: 10%;
+
+    }
+  }
+
+.row{
+  .row2{
+
+    font-size: 40px;
+    padding-left:10%;
+    padding-top: 5%;
+    background: url("../../images/skyline-buildings-new-york-skyscrapers.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.8;
+
+  }
+}
+  #search{
+    color:whitesmoke;
+    background-color: #1f3f66;
+    position: absolute;
+    right:10%;
+    bottom:90%;
+    height: 5%;
+    width: 20%;
+    font-size: 25px;
+
+  }
+  .row {
+    .row2{
+      .three{
+        font-size: 40px;
+        color: #1f3f66;
+        width: 90%;
+        margin:0;
+        height: 420px;
+
+      }
+    }
+  }
+
+  .row{
+    .row2{
+      .phone{
+        position: absolute;
+        left: 50%;
+        top:25%;
+      }
+    }
+  }
+  .row{
+    .row3{
+      .one{
+        display: inline-block;
+        color:#1f3f66;
+        float: right;
+        font-size: 22px;
+        width: 20%;
+        height: 90px;
+        background-color: Silver;
+        padding: 2% 4% 2% 10%;
+        background-image: url("../../images/message.png");
+        background-repeat: no-repeat;
+        background-position: 7%;
+      }
+    }
+  }
+  .row{
+    .row3{
+      .two{
+        display: inline-flex;
+        color:#1f3f66;
+        font-size: 22px;
+        width: 20%;
+        height: 90px;
+        background-color: Silver;
+        padding: 2% 4% 2% 10%;
+        float: right;
+        background-image: url("../../images/connect.png");
+        background-repeat: no-repeat;
+        background-position: 7%;
+      }
+    }
+  }
+
+  .row {
+    .row3{
+      .three{
+        display: inline-flex;
+        font-size: 22px;
+        width: 18%;
+        color:#1f3f66;
+        height: 90px;
+        background-color: Silver;
+        padding: 2% 4% 2% 10%;
+        float: right;
+        background-image: url("../../images/wifi.png");
+        background-repeat: no-repeat;
+        background-position: 7%;
+      }
+    }
+  }
+    .row{
+      .row2{
+        .button{
+          background-color:#2a922a;
+          width: 20%;
+          height: 10%;
+          font-size: 70%;
+          color: whitesmoke;
+          position: absolute;
+          left: 10%;
+          bottom: 30%;
+          border-radius: 10px;
+          border:hidden;
+        }
+      }
+    }
+    .row{
+      .row4{
+        text-align: left;
+        height:300px;
+        font-size: 30px;
+        padding-top: 11%;
+        padding-left: 38%;
+        line-height: 35px;
+        color:#1f3f66;
+
+      }
+    }
+    #iphone7{
+      float: left;
+      position: absolute;
+      left: -5%;
+      padding-left:15%;
+      bottom: -45%;
+    }
+    .row{
+      .row4{
+        .button{
+          background-color:#2a922a;
+          color: whitesmoke;
+          width: 35%;
+          height: 20%;
+          font-size: 90%;
+          border-radius: 10px;
+          opacity: 10;
+          border:hidden;
+        }
+      }
+    }
+    .row{
+      .zero{
+        font-size:35px;
+        color: #1f3f66;
+        height:650px;
+        margin-left: 17%;
+
+      }
+    }
+    .row{
+      .row5{
+        .one{
+          color: #1f3f66;
+          background-color: silver;
+          font-size: 20px;
+          width:22%;
+          position: absolute;
+          right: 40%;
+          bottom:-74%;
+          height: 45px;
+          padding-left: 3%;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .wifi{
+          position: absolute;
+          left:-20%;
+          top:-32%;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .two{
+          color: #1f3f66;
+          background-color: silver;
+          font-size: 20px;
+          width:22%;
+          position: absolute;
+          right: 40%;
+          bottom:-87%;
+          height: 45px;
+          padding-left: 3%
+        }
+      }
+    }
+    .row{
+      .row5{
+        .connect{
+          position: absolute;
+          left:-20%;
+          top:-32%;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .three{
+          color: #1f3f66;
+          background-color: silver;
+          font-size: 20px;
+          width:22%;
+          position: absolute;
+          right: 40%;
+          bottom:-101%;
+          height: 45px;
+          padding-left: 3%
+        }
+      }
+    }
+    .row {
+      .row5 {
+        .message {
+          position: absolute;
+          left: -20%;
+          top: -32%;
+        }
+      }
+    }
+
+    .row{
+      .row5{
+        .phone{
+          position: absolute;
+          left: -75%;
+          top:0%;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .email{
+          width: 30%;
+          float: right;
+          height: 460px;
+          position: absolute;
+          top:160%;
+          right: 5%;
+          background-color:#1f3f66;
+          border-radius: 1px;
+
+        }
+      }
+    }
+    .row{
+      .row5{
+        .input-form{
+          font-size:25px;
+          width:85%;
+          height: 10%;
+          position: absolute;
+          left:7%;
+          bottom:70%;
+          border-radius: 7px;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .input-form2{
+          font-size:25px;
+          width:85%;
+          height: 10%;
+          position: absolute;
+          left:7%;
+          bottom:50%;
+          border-radius: 7px;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .input-form3{
+          font-size:25px;
+          width:85%;
+          height: 10%;
+          position: absolute;
+          left:7%;
+          bottom:30%;
+          border-radius: 7px;
+        }
+      }
+    }
+    .row{
+      .row5{
+        .button-buttom{
+          width: 40%;
+          height: 10%;
+          font-size: 20px;
+          background-color: #2a922a;
+          color: whitesmoke;
+          position: absolute;
+          left: 45%;
+          bottom: 10%;
+          border-radius: 10px;
+          border:#1f3f66;
+        }
+      }
+    }
+    .tab-col{
+      width: 20%;
+      color: white;
+      font-size: 25px;
+      padding-left: 22%;
+      border-radius: 7px;
+    }
+    .tab-col2{
+      background-color:#f9b046;
+      float: right;
+      color: white;
+      font-size: 25px;
+      padding-right:20%;
+      border-radius: 1px;
+      padding-left: 5%;
+    }
+    .email2{
+      width: 30%;
+      float: right;
+      height: 460px;
+      position: absolute;
+      top:160%;
+      right: 5%;
+      border-radius: 1px;
+    }

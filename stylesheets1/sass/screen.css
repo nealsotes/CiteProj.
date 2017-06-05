@@ -1,0 +1,15 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 1, ../../sass/sass/_row1.scss */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 6, ../../sass/sass/_row1.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}

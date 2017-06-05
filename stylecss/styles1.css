@@ -1,0 +1,302 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+}
+
+
+.row .row1{
+    overflow: hidden;
+    width:100%;
+    margin: 0;
+    height: 110px;
+    background-color:darkblue;
+    background-image: url("nostrum123.png");
+    background-repeat:   no-repeat;
+    background-position: 10%;
+}
+
+
+
+
+.row .row2{
+
+    font-size: 40px;
+
+    padding-left:10%;
+    padding-top: 5%;
+    background-image: url("skyline-buildings-new-york-skyscrapers 2.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.8;
+
+
+}
+.row .row2 .three{
+    font-size: 40px;
+    color: blue;
+    width: 90%;
+    margin:0;
+    height: 420px;
+
+}
+.row .row2 .phone{
+    position: absolute;
+    left: 50%;
+    top:25%;
+
+}
+
+.row .row3{
+    width: 100%;
+    margin: 0;
+    height: 110px;
+
+
+}
+.row .row3  .one {
+    display: inline-block;
+    float: right;
+    font-size: 22px;
+    width: 20%;
+    height: 90px;
+    background-color: Silver;
+    padding: 2% 4% 2% 10%;
+    background-image: url("message.png");
+    background-repeat: no-repeat;
+    background-position: 7%;
+
+}
+.row .row3 .two{
+    display: inline-flex;
+    font-size: 22px;
+    width: 20%;
+    height: 90px;
+    background-color: Silver;
+    padding: 2% 4% 2% 10%;
+    float: right;
+    background-image: url("connect.png");
+    background-repeat: no-repeat;
+    background-position: 7%;
+
+}
+.row .row3 .three{
+    display: inline-flex;
+    font-size: 22px;
+    width: 18%;
+    height: 90px;
+    background-color: Silver;
+    padding: 2% 4% 2% 10%;
+    float: right;
+    background-image: url("wifi.png");
+    background-repeat: no-repeat;
+    background-position: 7%;
+
+}
+.row .row2 .button{
+    background-color:darkgreen;
+    width: 20%;
+    height: 10%;
+    font-size: 70%;
+    color: whitesmoke;
+    position: absolute;
+    left: 10%;
+    bottom: 30%;
+    border-radius: 10px;
+}
+#search{
+    color:whitesmoke;
+    background-color: darkblue;
+    position: absolute;
+    right:10%;
+    bottom:90%;
+    height: 5%;
+    width: 20%;
+    font-size: 25px;
+
+}
+.row .row4{
+    text-align: left;
+    height:240px;
+    font-size: 30px;
+    padding-top: 4%;
+    padding-left: 38%;
+    line-height: 35px;
+    color:blue;
+
+
+}
+.row .row4 .button{
+    background-color: darkgreen;
+    color: whitesmoke;
+    width: 35%;
+    height: 20%;
+    font-size: 90%;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+
+#iphone7{
+    float: left;
+    position: absolute;
+    left: 2%;
+    padding-left:15%;
+
+
+}
+
+
+
+
+.row .zero{
+    font-size:35px;
+    color: blue;
+    height:650px;
+    margin-left: 17%;
+
+}
+.row .row5 .one{
+    color: blue;
+    background-color: silver;
+    font-size: 20px;
+    width:22%;
+    position: absolute;
+    right: 40%;
+    bottom:-70%;
+    height: 45px;
+
+    padding-left: 3%;
+
+}
+.row .row5 .wifi{
+    position: absolute;
+    left:-20%;
+    top:-32%;
+}
+.row .row5 .two{
+    color: blue;
+    background-color: silver;
+    font-size: 20px;
+    width:22%;
+    position: absolute;
+    right: 40%;
+    bottom:-82%;
+    height: 45px;
+    padding-left: 3%
+}
+.row .row5 .connect{
+    position: absolute;
+    left:-20%;
+    top:-32%;
+
+}
+.row .row5 .three{
+    color: blue;
+    background-color: silver;
+    font-size: 20px;
+    width:22%;
+    position: absolute;
+    right: 40%;
+    bottom:-94%;
+    height: 45px;
+    padding-left: 3%
+
+}
+.row .row5 .message{
+    position: absolute;
+    left:-20%;
+    top:-32%;
+}
+.row .row5 .phone{
+    position: absolute;
+    left: -75%;
+    top:-40%;
+}
+.row .row5 .email{
+    width: 30%;
+    float: right;
+    height: 460px;
+    position: absolute;
+    top:160%;
+    right: 5%;
+    background-color:darkblue;
+    border-radius: 12px;
+
+}
+.row .row5 .input-form{
+    font-size:25px;
+    width:85%;
+    height: 10%;
+    position: absolute;
+    left:7%;
+    bottom:70%;
+    border-radius: 7px;
+
+}
+.row .row5 .input-form2{
+    font-size:25px;
+    width:85%;
+    height: 10%;
+    position: absolute;
+    left:7%;
+    bottom:50%;
+    border-radius: 7px;
+
+}
+.row .row5 .input-form3{
+    font-size:25px;
+    width:85%;
+    height: 10%;
+    position: absolute;
+    left:7%;
+    bottom:30%;
+    border-radius: 7px;
+}
+.row .row5 .button-buttom {
+    width: 40%;
+    height: 10%;
+    font-size: 20px;
+    background-color: darkgreen;
+    color: whitesmoke;
+    position: absolute;
+    left: 45%;
+    bottom: 10%;
+    border-radius: 10px;
+
+}
+.tab-col{
+    width: 20%;
+    color: white;
+    font-size: 25px;
+    padding-left: 22%;
+    border-radius: 7px;
+
+
+}
+.tab-col2{
+    background-color:orange;
+    float: right;
+    color: white;
+    font-size: 25px;
+    padding-right:20%;
+    border-radius: 7px;
+
+}
+
+.email2{
+    width: 30%;
+    float: right;
+    height: 460px;
+    position: absolute;
+    top:160%;
+    right: 5%;
+    border-radius: 12px;
+
+}
