@@ -1,0 +1,50 @@
+
+
+body{
+
+    background-color: #1f3f66;
+}
+
+#video1{
+    margin-left:auto;
+    margin-right:auto;
+    border: #6c8d4f;
+    border-style: solid;
+
+}
+#playPause{
+    font-size: 40px;
+    position: absolute;
+    left:25%;
+    bottom: 71px;
+
+}
+#stopButton2{
+    font-size: 40px;
+    position: absolute;
+    left:35%;
+    bottom: 71px;
+    width: 10%;
+
+}
+
+
+
+
+#playButton{
+    width: 10%;
+    font-size: 40px;
+
+
+}
+#stopButton{
+    width: 10%;
+    font-size: 40px;
+
+
+}
+.table-hover{
+    border-color: aqua;
+    border-style: solid;
+}
+

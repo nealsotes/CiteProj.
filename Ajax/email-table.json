@@ -1,0 +1,90 @@
+{"karya@gmail.com":[
+  {
+    "userName": "karya",
+    "firstName": "Karen",
+    "lastName": "Avilla",
+    "joined": {
+      "month": "March",
+      "day": "25",
+      "year": "2014"
+    }
+  },
+
+  {"neal@gmail.com":[
+    {
+      "userName":"ford",
+      "firstName":"Neal",
+      "lastName":"Sotes",
+      "joined":{
+        "month":"December",
+        "day"  :"25",
+        "year" :"2016"
+
+      }
+
+
+    },
+    {"bogart@yahoo.com":[
+      {
+        "userName":"bogart",
+        "firstName":"Ben",
+        "lastName" :"Tulfo",
+        "joined":{
+          "month":"April",
+          "day" :"9",
+          "year":"2015"
+        }
+
+
+
+
+      },
+      {"sophia23@gmail.com":[
+        {
+          "userName" :"sophie23",
+          "firstName" :"Sophia",
+          "lastName" : "Grande",
+          "joined" :{
+            "month" :"August",
+            "day" : "10",
+            "year" : "2013"
+
+          }
+
+        },
+
+        {"soDa233@gmail.com":[
+          {
+            "userName" :"so23e23",
+            "firstName" :"Sohia",
+            "lastName" : "Gr2ande",
+            "joined" :{
+              "month" :"August",
+              "day" : "1",
+              "year" : "2012"
+
+            }
+
+          }
+
+
+
+
+
+        ]}
+      ]}
+    ]}
+  ]}
+]}
+
+
+
+
+
+
+
+
+
+
+
+
