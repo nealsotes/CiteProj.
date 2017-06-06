@@ -49,6 +49,7 @@ stopButton2.onclick = function () {
 }
 
  */
+/**
 var playButton =$("#playButton");
 var $sounds = $("#audio1");
 
@@ -76,7 +77,7 @@ stopButton.click(function () {
 
 /** video section
 
- */
+
 
 var videoButton =$("#playPause");
 var $video = $("#video1");
@@ -103,7 +104,20 @@ stpButton.click(function () {
 
 
 
+*/
 
+function loadDoc () {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && xhttp.status == 200){
+            document.getElementById("click-me").innerHTML=xhttp.responseText;
+
+        }
+    };
+    xhttp.open("GET","webdesign/css/ajax_info.txt",true);
+    xhttp.send();
+
+}
 
 
 
